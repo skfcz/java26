@@ -1,4 +1,4 @@
-package de.groygroy.linuxmagazin;
+package de.groygroy.linuxmagazin.java26;
 
 import java.time.LocalTime;
 import java.time.format.DateTimeFormatter;

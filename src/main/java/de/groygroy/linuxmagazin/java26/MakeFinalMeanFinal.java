@@ -1,4 +1,4 @@
-package de.groygroy.linuxmagazin;
+package de.groygroy.linuxmagazin.java26;
 
 import static java.lang.IO.println;
 
